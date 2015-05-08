@@ -1,1 +1,1 @@
-Working throught Tango With Django
+Working through Tango With Django
